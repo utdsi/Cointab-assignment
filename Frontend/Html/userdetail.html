@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User-detail</title>
+    <link rel="stylesheet" href="../Style/userdetail.css">
+</head>
+<body>
+
+    <h1>User Details</h1>
+
+    <div class="sort-container">
+        <label for="sortSelect">Sort by Age:</label>
+        <select id="sortSelect">
+            <option value="">Select</option>
+          <option value="asc">ASC</option>
+          <option value="desc">DSC</option>
+        </select>
+      </div>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>SNo.</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>City</th>
+        <th>State</th>
+        <th>Country</th>
+        <th>Age</th>
+      </tr>
+    </thead>
+    <tbody id="tableBody">
+      
+    </tbody>
+  </table>
+
+  <div id="pagination">
+   
+  </div>
+    
+</body>
+</html>
+<script src="../Script/userdetail.js"></script>
