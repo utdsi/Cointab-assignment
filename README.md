@@ -1,6 +1,6 @@
 # Cointab-assignment
 <div align="center">
-<h5>It is a project completed in a span of two days.</h5>
+
 <h4>Techstack</h4>
 <h5>Backend:Nodejs,Express,MySql</h5>
 <h5>Frontend:HTML,CSS5,Javascript</h5>
@@ -11,6 +11,19 @@ Video Demonstration:https://drive.google.com/file/d/1s2Xr9h8VI8OVSG3r4rjFVcgvO56
 ```javascript
 POST  http://127.0.0.1:8000/
 ```
+
+   #### Delete
+```javascript
+Delete  http://127.0.0.1:8000/del
+```
+   #### Display Users
+```javascript
+Get  http://127.0.0.1:8000/asc
+Get  http://127.0.0.1:8000/desc
+
+```
+
+
 
   
 </div>
