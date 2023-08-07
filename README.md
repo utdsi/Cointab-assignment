@@ -26,12 +26,12 @@ Get  http://127.0.0.1:8000/desc
 #### Users data...
 
 {
-"name":"Mr Utkarsh Sinha",
-"email":"utkarshsinha852@gmail.com",
-"city":"Bhopal",
-state":"Madhya Pradesh",
-"country":"India",
-"age":27
+"name":"Mr Utkarsh Sinha",<br>
+"email":"utkarshsinha852@gmail.com",<br>
+"city":"Bhopal",<br>
+state":"Madhya Pradesh",<br>
+"country":"India",<br>
+"age":27<br>
 }
 
 
