@@ -25,7 +25,7 @@ Get  http://127.0.0.1:8000/desc
 
 #### Users data...
 
-{
+{<br>
 "name":"Mr Utkarsh Sinha",<br>
 "email":"utkarshsinha852@gmail.com",<br>
 "city":"Bhopal",<br>
