@@ -23,7 +23,7 @@ Get  http://127.0.0.1:8000/desc
 
 ```
 
-#### Users data...
+## Users data...
 
 {<br>
 "name":"Mr Utkarsh Sinha",<br>
@@ -34,18 +34,18 @@ state":"Madhya Pradesh",<br>
 "age":27<br>
 }
 
-#### Run Locally
-1. Go to backend folder
+## Run Locally
+ Go to backend folder
    ```javascript
    npm install
 
    ```
-2. Connect with your SQL workbench.
-3. Start the server with command
+ Connect with your SQL workbench.
+ Start the server with command
  ```javascript
 npm run server
    ```
-4. Go to Frontend folder and go live with
+ Go to Frontend folder and go live with
  ```javascript
       index.html
    ``` 
