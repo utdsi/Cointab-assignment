@@ -46,8 +46,8 @@ state":"Madhya Pradesh",<br>
 npm run server
    ```
 4. Go to Frontend folder and go live with
-5. ```javascript
-index.html
+ ```javascript
+      index.html
    ``` 
 
 
