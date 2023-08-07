@@ -47,7 +47,7 @@ npm run server
    ```
  Go to Frontend folder and go live with
  ```javascript
-      index.html
+ index.html
    ``` 
 
 
