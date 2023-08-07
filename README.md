@@ -40,7 +40,7 @@ state":"Madhya Pradesh",<br>
    npm install
 
    ```
- Connect with your SQL workbench.
+ Connect with your SQL workbench.<br>
  Start the server with command
  ```javascript
 npm run server
