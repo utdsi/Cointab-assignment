@@ -34,6 +34,22 @@ state":"Madhya Pradesh",<br>
 "age":27<br>
 }
 
+#### Run Locally
+1. Go to backend folder
+   ```javascript
+   npm install
+
+   ```
+2. Connect with your SQL workbench.
+3. Start the server with command
+ ```javascript
+npm run server
+   ```
+4. Go to Frontend folder and go live with
+5. ```javascript
+index.html
+   ``` 
+
 
 
   
